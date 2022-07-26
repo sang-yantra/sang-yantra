@@ -1,5 +1,6 @@
 # Hello World 🌏
 
+![Happy Codding](https://github.com/sang-yantra/sang-yantra/blob/main/giphy-matrix-blue.gif)
 
 
 ## 🌐 Socials:
